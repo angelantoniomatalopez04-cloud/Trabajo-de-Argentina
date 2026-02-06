@@ -27,9 +27,9 @@ Fuente: https://commons.wikimedia.org/wiki/File:2015_Dodge_Challenger_RT_Shaker_
 
 Licencia:  Creative Commons Attribution 2.0 Generic .
 
-##Eres libre:
-##compartir – copiar, distribuir y transmitir la obra
-##remezclar – adaptar la obra
-##
+Eres libre:
+compartir – copiar, distribuir y transmitir la obra.
+remezclar – adaptar la obra.
+
 En las siguientes condiciones:
 Atribución : Debe otorgar el crédito correspondiente, proporcionar un enlace a la licencia e indicar si se realizaron cambios. Puede hacerlo de cualquier manera razonable, pero no de ninguna manera que sugiera que el licenciante lo respalda a usted o a su uso.
