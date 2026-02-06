@@ -2,7 +2,7 @@
 
 Actividad 2 de Licencias Creative Commons
 
-Participante: Christy Gonzalez, Angel Mata, Alexis Alvarez, Amy Gilbert, Alams Almonte
+Participante: Christy Gonzalez, Angel Mata.
 
 Tema: Ética, Ciberseguridad y Derechos de Autor en la Web  
 
